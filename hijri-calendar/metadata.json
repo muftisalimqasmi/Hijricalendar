@@ -1,0 +1,5 @@
+{
+  "name": "Hijri Calendar Redirect",
+  "description": "A hybrid Hijri calendar that uses local data for stability and API checks for lunar visibility on critical days, featuring an automatic redirect.",
+  "requestFramePermissions": []
+}
